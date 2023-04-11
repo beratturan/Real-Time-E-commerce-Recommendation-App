@@ -9,7 +9,7 @@ The goal of this project is to build a recommendation engine for an e-commerce p
 
 ## Architecture
 
-![Uygulama Ekran Görüntüsü](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled.png#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1SJQKc2mCOrSAH7EKlh7-V4l6YG_yD2-q%26export%3Ddownload)
+![Diagram](https://github.com/beratturan/Real-Time-E-commerce-Recommendation-App/blob/main/Diagram.png)
 
 ## Technology Stack
 - Programming Languages: Python
