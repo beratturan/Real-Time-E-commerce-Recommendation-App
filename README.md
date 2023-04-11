@@ -55,7 +55,7 @@ The main applications in the project are:
 
 ## ER Diagram
 
-![Diagram]()
+![Diagram](https://github.com/beratturan/Real-Time-E-commerce-Recommendation-App/blob/main/ER_diagram.png)
 
 
 
