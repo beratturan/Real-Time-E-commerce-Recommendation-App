@@ -1,0 +1,7 @@
+apache-airflow-client==2.5.1
+fastapi==0.95.0
+mysql-connector-python==8.0.32
+uvicorn
+requests
+psycopg2-binary
+pandas
